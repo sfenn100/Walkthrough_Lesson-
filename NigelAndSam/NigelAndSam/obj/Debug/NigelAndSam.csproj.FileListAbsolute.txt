@@ -18,3 +18,4 @@ C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSa
 C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.csproj.CoreCompileInputs.cache
 C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.exe
 C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.pdb
+C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.new_Form_Test.resources
