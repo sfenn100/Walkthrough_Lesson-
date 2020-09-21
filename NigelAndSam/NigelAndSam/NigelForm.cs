@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace NigelAndSam
 {
-    public partial class Form1 : Form
+    public partial class NigelForm : Form
     {
-        public Form1()
+        public NigelForm()
         {
             InitializeComponent();
-        }
-
-        private void btn_nigel_Click(object sender, EventArgs e)
-        {
-            NigelForm nf = new NigelForm();
-            nf.Show();
         }
     }
 }
