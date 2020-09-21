@@ -11,5 +11,6 @@ namespace NigelAndSam
     {
         private int m_nigel = 7;
         private float m_nigel2 = 3.2F;
+        private float m_sam = 12.8F;
     }
 }
