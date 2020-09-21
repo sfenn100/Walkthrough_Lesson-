@@ -40,6 +40,7 @@
             this.btn_sam.TabIndex = 0;
             this.btn_sam.Text = "Sam";
             this.btn_sam.UseVisualStyleBackColor = true;
+            this.btn_sam.Click += new System.EventHandler(this.btn_sam_Click);
             // 
             // btn_nigel
             // 
