@@ -8,3 +8,13 @@ C:\Users\253737\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSa
 C:\Users\253737\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.exe
 C:\Users\253737\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.pdb
 C:\Users\253737\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.Form1.resources
+C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\bin\Debug\NigelAndSam.exe.config
+C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\bin\Debug\NigelAndSam.exe
+C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\bin\Debug\NigelAndSam.pdb
+C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.csprojAssemblyReference.cache
+C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.Form1.resources
+C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.Properties.Resources.resources
+C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.csproj.GenerateResource.cache
+C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.csproj.CoreCompileInputs.cache
+C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.exe
+C:\Users\408820\source\repos\sfenn100\Walkthrough_Lesson-\NigelAndSam\NigelAndSam\obj\Debug\NigelAndSam.pdb

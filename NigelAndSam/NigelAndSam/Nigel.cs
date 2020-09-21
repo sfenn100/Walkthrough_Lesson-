@@ -9,5 +9,6 @@ namespace NigelAndSam
     class Nigel
     {
         private int m_nigel = 7;
+        private float m_sam = 12.8F;
     }
 }
